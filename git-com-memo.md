@@ -7,6 +7,8 @@ cd ..
 
 git checkout -b develop
 
+編集
+
 git add .
 
 git commit -m "メッセージ"
