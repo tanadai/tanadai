@@ -1,4 +1,4 @@
-#githubコマンドメモ
+# githubコマンドメモ
 git clone URL
 
 cd フォルダ名
